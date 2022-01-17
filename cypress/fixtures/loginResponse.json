@@ -1,0 +1,9 @@
+{
+  "user": {
+      "username": "aaron",
+      "email": "aaron@mail.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTYxNiwidXNlcm5hbWUiOiJhYXJvbiIsImV4cCI6MTY0NzYwNzk1NywiaWF0IjoxNjQyNDIzOTU3fQ.0xR0JmR9OhDD0FZgPoO1XwOjoROJVfxcjkB4MzrOrR0",
+      "bio": null,
+      "image": null
+  }
+}

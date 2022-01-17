@@ -1,0 +1,1 @@
+docker run -t cypress-somecode-image:1.0.0 .
